@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "고민지"
+  name             : "Gominzip"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "고민과 해결 과정을 기록하는 기술 블로그 "
   location         : "Seoul"
   email            :
   links:
